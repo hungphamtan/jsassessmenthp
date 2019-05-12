@@ -4,8 +4,8 @@
   "description": "Assessment",
   "main": "index.js",
   "scripts": {
-    "test": "jest --collect-coverage",
-    "test:watch": "jest --watch"
+    "test": "jest --verbose --collect-coverage",
+    "test:watch": "jest --verbose --watch"
   },
   "keywords": [
     "js"

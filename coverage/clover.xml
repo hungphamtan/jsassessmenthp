@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1557663181152" clover="3.2.0">
-  <project timestamp="1557663181152" name="All files">
-    <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="5" coveredmethods="5" elements="24" coveredelements="24" complexity="0" loc="15" ncloc="15" packages="1" files="1" classes="1"/>
+<coverage generated="1557685771368" clover="3.2.0">
+  <project timestamp="1557685771368" name="All files">
+    <metrics statements="49" coveredstatements="49" conditionals="12" coveredconditionals="12" methods="11" coveredmethods="11" elements="72" coveredelements="72" complexity="0" loc="49" ncloc="49" packages="1" files="3" classes="3"/>
     <file name="index.js" path="/Users/hung.phamtan/Documents/Projects/Indigo/assessment/src/index.js">
       <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="5" coveredmethods="5"/>
       <line num="9" count="3" type="cond" truecount="2" falsecount="0"/>
@@ -19,6 +19,46 @@
       <line num="36" count="3" type="stmt"/>
       <line num="38" count="2" type="stmt"/>
       <line num="40" count="1" type="stmt"/>
+    </file>
+    <file name="store.config.js" path="/Users/hung.phamtan/Documents/Projects/Indigo/assessment/src/store.config.js">
+      <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+    </file>
+    <file name="store.js" path="/Users/hung.phamtan/Documents/Projects/Indigo/assessment/src/store.js">
+      <metrics statements="25" coveredstatements="25" conditionals="8" coveredconditionals="8" methods="6" coveredmethods="6"/>
+      <line num="14" count="10" type="stmt"/>
+      <line num="15" count="10" type="stmt"/>
+      <line num="16" count="10" type="stmt"/>
+      <line num="21" count="10" type="stmt"/>
+      <line num="22" count="10" type="stmt"/>
+      <line num="23" count="10" type="stmt"/>
+      <line num="27" count="14" type="cond" truecount="2" falsecount="0"/>
+      <line num="28" count="3" type="stmt"/>
+      <line num="29" count="11" type="cond" truecount="2" falsecount="0"/>
+      <line num="30" count="3" type="stmt"/>
+      <line num="31" count="8" type="cond" truecount="2" falsecount="0"/>
+      <line num="35" count="3" type="stmt"/>
+      <line num="37" count="5" type="stmt"/>
+      <line num="43" count="6" type="stmt"/>
+      <line num="44" count="6" type="stmt"/>
+      <line num="46" count="6" type="stmt"/>
+      <line num="47" count="50" type="stmt"/>
+      <line num="48" count="50" type="stmt"/>
+      <line num="50" count="6" type="stmt"/>
+      <line num="55" count="5" type="stmt"/>
+      <line num="56" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="57" count="4" type="stmt"/>
+      <line num="59" count="5" type="stmt"/>
+      <line num="63" count="5" type="stmt"/>
+      <line num="67" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
