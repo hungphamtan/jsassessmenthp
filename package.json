@@ -1,0 +1,25 @@
+{
+  "name": "jsassessmenthp",
+  "version": "1.0.0",
+  "description": "Assessment",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --collect-coverage",
+    "test:watch": "jest --watch"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "hung.phamtan",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.4",
+    "@babel/preset-env": "^7.4.4",
+    "babel-jest": "^24.8.0",
+    "jest": "^24.8.0"
+  },
+  "dependencies": {
+    
+  }
+}
