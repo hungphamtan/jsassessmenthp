@@ -1,10 +1,18 @@
 import { store, load } from './index';
 describe('Data Store', () => {
+	describe('Data Store load emtpy array', () => {
+		test('store return empty string for falsy value', () => {
+      const array = null;
+      const expected = '';
+      const text = store(array);
+
+      expect(text).toEqual(expected);
+    });
+	});
 	test('store return empty string for emty array', () => {
     const array = [];
     const expected = '';
 		const text = store(array);
-		console.log(text);
 	
     expect(text).toEqual(expected);
   });
