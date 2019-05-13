@@ -26,7 +26,7 @@ All files        |      100 |      100 |      100 |      100 |                  
 All statements, branches, functions and lines are covered `100%`.
 
 ### There are 02 files:
-- `src/index.js` question 1: Data Store and Load
+- `src/data.js` question 1: Data Store and Load
 - `src/store.js` question 3: finds the net payable amount
 
 
