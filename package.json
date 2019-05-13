@@ -2,7 +2,7 @@
   "name": "jsassessmenthp",
   "version": "1.0.0",
   "description": "Assessment",
-  "main": "index.js",
+  "main": "data.js",
   "scripts": {
     "test": "jest --verbose --collect-coverage",
     "test:watch": "jest --verbose --watch"

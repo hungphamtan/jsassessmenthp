@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1557718398196" clover="3.2.0">
-  <project timestamp="1557718398196" name="All files">
+<coverage generated="1557728705449" clover="3.2.0">
+  <project timestamp="1557728705449" name="All files">
     <metrics statements="49" coveredstatements="49" conditionals="12" coveredconditionals="12" methods="11" coveredmethods="11" elements="72" coveredelements="72" complexity="0" loc="49" ncloc="49" packages="1" files="3" classes="3"/>
-    <file name="index.js" path="/Users/hung.phamtan/Documents/Projects/Indigo/assessment/src/index.js">
+    <file name="data.js" path="/Users/hung.phamtan/Documents/Projects/Indigo/assessment/src/data.js">
       <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="5" coveredmethods="5"/>
       <line num="9" count="3" type="cond" truecount="2" falsecount="0"/>
       <line num="10" count="2" type="stmt"/>

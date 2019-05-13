@@ -1,4 +1,4 @@
-import { store, load } from './index';
+import { store, load } from './data';
 describe('Data Store', () => {
 	describe('Data Store load emtpy array', () => {
 		test('store return empty string for falsy value', () => {
